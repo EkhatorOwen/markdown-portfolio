@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. Coding
+2. Eating
+3. Reading
+   1. Reading blogs.
+   2. Reading novels.
+4. Watching movies.
